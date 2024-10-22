@@ -1,0 +1,50 @@
+# Ignore node_modules if using npm for packages (if applicable)
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Ignore environment variables file (if applicable)
+.env
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Ignore IDE-specific files
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
+
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore generated build output (optional if using tools to minify or bundle)
+dist/
+build/
+
+# Ignore Sass cache files (if applicable)
+.sass-cache/
+
+# Ignore log files
+*.log
+
+# Ignore coverage reports (if using a testing framework)
+coverage/
+
+# Ignore any backup files created by text editors
+*~ 
