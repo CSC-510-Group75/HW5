@@ -21,7 +21,7 @@ Examples of unacceptable behavior include:
 
 ## Reporting Issues
 
-If you observe behavior that violates this Code of Conduct, please report it by contacting one of the team members at [kpeters4@ncsu.edu, scheruk5@ncsu.edu, dmagulu@ncsu.edu]. All concerns will be reviewed and addressed respectfully.
+If you observe behavior that violates this Code of Conduct, please report it by contacting one of the team members at kpeters4@ncsu.edu, scheruk5@ncsu.edu, dmagulu@ncsu.edu. All concerns will be reviewed and addressed respectfully.
 
 ## Enforcement
 
